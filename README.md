@@ -65,7 +65,7 @@ graph LR
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/idempotent-pipeline.git
+    git clone https://github.com/yourusername/kafka_real_time.git
     cd idempotent-pipeline
     ```
 
