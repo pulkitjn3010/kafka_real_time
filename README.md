@@ -66,7 +66,7 @@ graph LR
 
     ```bash
     git clone https://github.com/yourusername/kafka_real_time.git
-    cd idempotent-pipeline
+    cd kafka_real_time
     ```
 
 2.  **Start the Infrastructure:**
